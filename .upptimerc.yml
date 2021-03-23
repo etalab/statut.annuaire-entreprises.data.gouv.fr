@@ -5,8 +5,16 @@ repo: statut.annuaire-entreprises.data.gouv.fr # Your GitHub repository name
 # Add your sites here
 
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: API RNM
+    url: https://annuaire-entreprises.data.gouv.fr/api/ping/rnm
+  - name: API RNCS
+    url: https://annuaire-entreprises.data.gouv.fr/api/ping/rncs
+  - name: API SIRENE INSEE
+    url: https://annuaire-entreprises.data.gouv.fr/api/ping/sirene-insee
+  - name: API SIRENE DONNEES OUVERTES
+    url: https://annuaire-entreprises.data.gouv.fr/api/ping/sirene-donnees-ouvertes
+  - name: API Conventions Collectives
+    url: https://annuaire-entreprises.data.gouv.fr/api/ping/conventions-collectives
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
