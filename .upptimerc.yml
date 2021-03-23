@@ -20,7 +20,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: statut.annuaire-entreprises.data.gouv.fr
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /statut.annuaire-entreprises.data.gouv.fr # where "repo" is your repository name
   logoUrl: https://api.gouv.fr/images/api-logo/dinum.png
   name: Disponibilités des API utilisées dans l’Annuaire des Entreprises
   introTitle: "Disponiblité des API du service public"
