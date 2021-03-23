@@ -10,7 +10,7 @@ sites: # List of endpoints to track
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: statut.annuaire-entreprises.data.gouv.fr
+  # cname: statut.annuaire-entreprises.data.gouv.fr
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://api.gouv.fr/images/api-logo/dinum.png
