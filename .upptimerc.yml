@@ -1,39 +1,76 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: etalab # Your GitHub username
+repo: statut.annuaire-entreprises.data.gouv.fr # Your GitHub repository name
 
 # Add your sites here
-sites:
+
+sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: statut.annuaire-entreprises.data.gouv.fr
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://api.gouv.fr/images/api-logo/dinum.png
+  name: Disponibilités des API utilisées dans l’Annuaire des Entreprises
+  introTitle: "Disponiblité des API du service public"
+  introMessage: Retrouvez sur ce tableau de bord, les disponibilités des API utilisées dans l’Annuaire des Entreprises
   navbar:
-    - title: Status
+    - title: Disponibilité
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Retourner sur l’Annuaire
+      href: https://annuaire-entreprises.data.gouv.fr
+  favicon: https://api.gouv.fr/favicon.ico
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: Incidents en cours
+  allSystemsOperational: Tous les sytèmes sont opérationnels
+  incidentReport: "Rapport d'incident #$NUMBER →"
+  activeIncidentSummary: Ouvert le $DATE avec $POSTS posts
+  incidentTitle: Détails de l'incident $NUMBER
+  incidentDetails: Détails de l'incident
+  incidentFixed: Résolu
+  incidentOngoing: En cours
+  incidentOpenedAt: Ouvert le
+  incidentClosedAt: Fermé le
+  incidentSubscribe: S'abonner aux mises à jour
+  incidentViewOnGitHub: Voir sur GitHub
+  incidentCommentSummary: Posté le $DATE par $AUTHOR
+  incidentBack: ← Retour aux incidents
+  pastIncidents: Incidents passés
+  pastIncidentsResolved: Resolu en $MINUTES minutes avec $POSTS posts
+  liveStatus: Statut temps réel
+  overallUptime: "Disponibilité globale : $UPTIME"
+  overallUptimeTitle: Disponibilité globale
+  averageResponseTime: "Temps de réponse moyen : $TIMEms"
+  averageResponseTimeTitle: Temps de réponse moyen
+  sevelDayResponseTime: Temps de réponse sur 7 jours
+  responseTimeMs: Temps de réponse (ms)
+  up: Opérationnel
+  down: Indisponible
+  degraded: Dégradé
+  ms: ms
+  loading: Chargement
+  navGitHub: GitHub
+  footer: Cette page est [open source]($REPO), propulsée par [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Quota dépassé
+  rateLimitExceededIntro: Vous avez dépassé le nombre de requêtes que vous pouvez faire en une heure, vous devez donc attendre avant de pouvoir accéder à nouveau au site. Vous pouvez également ajouter un GitHub Personal Access Token pour continuer à utiliser le site.
+  rateLimitExceededWhatDoesErrorMean: Que veut dire cette erreur ?
+  rateLimitExceededErrorMeaning: Ce site utilise l'API  de Github pour accéder au statut de notre API. Par défaut, Github autorise 60 requêtes par heure par IP, quota que vous avez dépassé.
+  rateLimitExceededErrorHowCanFix: Comment réparer cela ?
+  rateLimitExceededErrorFix: Vous pouvez attendre l'heure suivante et votre adresse IP sera débloquée. Vous pouvez également renseigner un GitHub Personal Access Token, qui vous donnera un nouveau quota de 5000 requêtes par heure.
+  rateLimitExceededGeneratePAT: Voir comment générer un Personal Access Token
+  rateLimitExceededHasSet: Vous avez un Personal Access Token renseigné.
+  rateLimitExceededRemoveToken: Supprimer le token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copier/coller le token
+  rateLimitExceededSaveToken: Enregistrer le token
+  errorTitle: Une erreur s'est produite
+  errorIntro: Oups ! Une erreur s'est produite en tentant de charger les derniers statuts de disponibilité.
+  errorText: Veuillez réessayer dans quelques instants.
+  errorHome: Retour à l'accueil
