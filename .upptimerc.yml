@@ -22,12 +22,10 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /statut.annuaire-entreprises.data.gouv.fr # where "repo" is your repository name
   logoUrl: https://api.gouv.fr/images/api-logo/dinum.png
-  name: Disponibilités des API utilisées dans l’Annuaire des Entreprises
-  introTitle: "Disponiblité des API du service public"
+  name: Annuaire des Entreprises
+  introTitle: "Disponibilité des données"
   introMessage: Retrouvez sur ce tableau de bord, les disponibilités des API utilisées dans l’Annuaire des Entreprises
   navbar:
-    - title: Disponibilité
-      href: /
     - title: Retourner sur l’Annuaire
       href: https://annuaire-entreprises.data.gouv.fr
   favicon: https://api.gouv.fr/favicon.ico
