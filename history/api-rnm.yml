@@ -1,7 +1,7 @@
-url: https://annuaire-entreprises.data.gouv.fr/api/ping/rnm
+url: https://annuaire-entreprises.data.gouv.fr/api/ping/api-rnm
 status: up
 code: 200
-responseTime: 624
-lastUpdated: 2021-03-25T23:02:35.526Z
+responseTime: 1215
+lastUpdated: 2021-03-26T16:12:53.497Z
 startTime: Tue Mar 23 2021 15:43:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
