@@ -1,7 +1,7 @@
 url: https://annuaire-entreprises.data.gouv.fr/api/ping/api-sirene-donnees-ouvertes
-status: down
-code: 500
-responseTime: 96
-lastUpdated: 2021-04-10T12:56:40.087Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2021-04-10T13:10:25.140Z
 startTime: Tue Mar 23 2021 15:43:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
