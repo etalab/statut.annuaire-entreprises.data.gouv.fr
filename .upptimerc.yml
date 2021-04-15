@@ -5,6 +5,10 @@ repo: statut.annuaire-entreprises.data.gouv.fr # Your GitHub repository name
 # Add your sites here
 
 sites: # List of endpoints to track
+  - name: Site Annuaire des Entreprises
+    url: https://annuaire-entreprises.data.gouv.fr/entreprise/880878145
+  - name: Site INPI
+    url: https://data.inpi.fr/entreprises/880878145
   - name: API RNM
     url: https://annuaire-entreprises.data.gouv.fr/api/ping/api-rnm
   - name: API RNCS
