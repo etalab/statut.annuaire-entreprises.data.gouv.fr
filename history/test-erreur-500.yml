@@ -1,7 +1,7 @@
 url: https://annuaire-entreprises.data.gouv.fr/500
 status: down
-code: 500
-responseTime: 98
-lastUpdated: 2021-04-15T07:02:13.855Z
+code: 502
+responseTime: 2839
+lastUpdated: 2021-04-15T23:02:08.422Z
 startTime: Wed Apr 14 2021 16:10:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
