@@ -1,7 +1,7 @@
 url: https://annuaire-entreprises.data.gouv.fr/api/ping/api-sirene-insee
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2021-05-08T04:00:18.289Z
+status: down
+code: 500
+responseTime: 305
+lastUpdated: 2021-05-08T04:56:41.610Z
 startTime: Tue Mar 23 2021 15:43:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
