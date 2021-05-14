@@ -49,7 +49,7 @@
     "time": 1462,
     "timeDay": 119,
     "timeWeek": 1792,
-    "timeMonth": 1491,
+    "timeMonth": 1535,
     "timeYear": 1462,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "https://annuaire-entreprises.data.gouv.fr/api/ping/api-rncs",
     "icon": "https://favicons.githubusercontent.com/annuaire-entreprises.data.gouv.fr",
     "slug": "api-rncs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5777,
-    "timeDay": 9153,
-    "timeWeek": 7471,
-    "timeMonth": 6774,
-    "timeYear": 5777,
+    "time": 5778,
+    "timeDay": 8822,
+    "timeWeek": 7571,
+    "timeMonth": 6876,
+    "timeYear": 5778,
     "dailyMinutesDown": {}
   },
   {
@@ -85,7 +85,7 @@
     "time": 428,
     "timeDay": 422,
     "timeWeek": 339,
-    "timeMonth": 454,
+    "timeMonth": 455,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 328,
     "timeDay": 102,
     "timeWeek": 113,
-    "timeMonth": 545,
+    "timeMonth": 570,
     "timeYear": 328,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 632,
     "timeDay": 204,
     "timeWeek": 189,
-    "timeMonth": 870,
+    "timeMonth": 906,
     "timeYear": 632,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 294,
     "timeDay": 189,
     "timeWeek": 206,
-    "timeMonth": 294,
+    "timeMonth": 301,
     "timeYear": 294,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 197,
     "timeDay": 97,
     "timeWeek": 106,
-    "timeMonth": 197,
+    "timeMonth": 201,
     "timeYear": 197,
     "dailyMinutesDown": {}
   }
