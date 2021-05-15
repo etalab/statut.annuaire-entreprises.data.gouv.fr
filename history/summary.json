@@ -13,7 +13,7 @@
     "time": 1055,
     "timeDay": 3808,
     "timeWeek": 1315,
-    "timeMonth": 1055,
+    "timeMonth": 1068,
     "timeYear": 1055,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 7107,
     "timeDay": 3259,
     "timeWeek": 2814,
-    "timeMonth": 7107,
+    "timeMonth": 7201,
     "timeYear": 7107,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1447,
     "timeDay": 119,
     "timeWeek": 1663,
-    "timeMonth": 1525,
+    "timeMonth": 1555,
     "timeYear": 1447,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "https://annuaire-entreprises.data.gouv.fr/api/ping/api-rncs",
     "icon": "https://favicons.githubusercontent.com/annuaire-entreprises.data.gouv.fr",
     "slug": "api-rncs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5887,
-    "timeDay": 9164,
-    "timeWeek": 7727,
-    "timeMonth": 7023,
-    "timeYear": 5887,
+    "time": 5913,
+    "timeDay": 9257,
+    "timeWeek": 7771,
+    "timeMonth": 7102,
+    "timeYear": 5913,
     "dailyMinutesDown": {}
   },
   {
@@ -85,7 +85,7 @@
     "time": 427,
     "timeDay": 412,
     "timeWeek": 333,
-    "timeMonth": 459,
+    "timeMonth": 461,
     "timeYear": 427,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 325,
     "timeDay": 100,
     "timeWeek": 111,
-    "timeMonth": 570,
+    "timeMonth": 584,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 625,
     "timeDay": 180,
     "timeWeek": 188,
-    "timeMonth": 906,
+    "timeMonth": 924,
     "timeYear": 625,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 291,
     "timeDay": 185,
     "timeWeek": 203,
-    "timeMonth": 301,
+    "timeMonth": 305,
     "timeYear": 291,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 194,
     "timeDay": 94,
     "timeWeek": 104,
-    "timeMonth": 201,
+    "timeMonth": 204,
     "timeYear": 194,
     "dailyMinutesDown": {}
   }
