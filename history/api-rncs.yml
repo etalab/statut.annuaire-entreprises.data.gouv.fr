@@ -1,7 +1,7 @@
 url: https://annuaire-entreprises.data.gouv.fr/api/ping/api-rncs
-status: down
-code: 500
-responseTime: 10097
-lastUpdated: 2021-05-18T07:31:42.621Z
+status: up
+code: 200
+responseTime: 10137
+lastUpdated: 2021-05-18T09:32:55.256Z
 startTime: Tue Mar 23 2021 15:43:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
