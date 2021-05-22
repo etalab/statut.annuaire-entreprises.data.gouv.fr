@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1024,
     "timeDay": 1241,
-    "timeWeek": 891,
+    "timeWeek": 894,
     "timeMonth": 993,
     "timeYear": 1024,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 6431,
     "timeDay": 3417,
-    "timeWeek": 2982,
+    "timeWeek": 3022,
     "timeMonth": 7174,
     "timeYear": 6431,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1462,
     "timeDay": 163,
-    "timeWeek": 1558,
+    "timeWeek": 1669,
     "timeMonth": 1458,
     "timeYear": 1462,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 6491,
     "timeDay": 407,
-    "timeWeek": 8040,
+    "timeWeek": 7986,
     "timeMonth": 7847,
     "timeYear": 6491,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://annuaire-entreprises.data.gouv.fr/api/ping/api-sirene-insee",
     "icon": "https://favicons.githubusercontent.com/annuaire-entreprises.data.gouv.fr",
     "slug": "api-sirene-insee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 393,
     "timeDay": 334,
-    "timeWeek": 330,
+    "timeWeek": 329,
     "timeMonth": 333,
     "timeYear": 393,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 156,
-    "timeWeek": 109,
+    "timeWeek": 110,
     "timeMonth": 112,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 303,
-    "timeWeek": 199,
+    "timeWeek": 202,
     "timeMonth": 201,
     "timeYear": 273,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 151,
-    "timeWeek": 100,
+    "timeWeek": 101,
     "timeMonth": 103,
     "timeYear": 175,
     "dailyMinutesDown": {}
