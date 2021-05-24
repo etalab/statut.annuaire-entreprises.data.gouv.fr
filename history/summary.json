@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1017,
     "timeDay": 863,
-    "timeWeek": 896,
+    "timeWeek": 889,
     "timeMonth": 1001,
     "timeYear": 1017,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 6326,
     "timeDay": 3590,
-    "timeWeek": 3105,
+    "timeWeek": 3153,
     "timeMonth": 7194,
     "timeYear": 6326,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1413,
     "timeDay": 168,
-    "timeWeek": 856,
+    "timeWeek": 913,
     "timeMonth": 1404,
     "timeYear": 1413,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 6433,
     "timeDay": 211,
-    "timeWeek": 5584,
+    "timeWeek": 5303,
     "timeMonth": 7874,
     "timeYear": 6433,
     "dailyMinutesDown": {}
@@ -76,14 +76,14 @@
     "url": "https://annuaire-entreprises.data.gouv.fr/api/ping/api-sirene-insee",
     "icon": "https://favicons.githubusercontent.com/annuaire-entreprises.data.gouv.fr",
     "slug": "api-sirene-insee",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 330,
+    "timeDay": 334,
     "timeWeek": 325,
     "timeMonth": 329,
     "timeYear": 381,
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 109,
-    "timeWeek": 111,
+    "timeWeek": 113,
     "timeMonth": 112,
     "timeYear": 299,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 570,
     "timeDay": 191,
-    "timeWeek": 202,
+    "timeWeek": 191,
     "timeMonth": 202,
     "timeYear": 570,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 192,
-    "timeWeek": 200,
+    "timeWeek": 202,
     "timeMonth": 202,
     "timeYear": 269,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 172,
     "timeDay": 102,
-    "timeWeek": 101,
+    "timeWeek": 102,
     "timeMonth": 103,
     "timeYear": 172,
     "dailyMinutesDown": {}
