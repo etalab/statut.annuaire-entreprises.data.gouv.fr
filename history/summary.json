@@ -13,7 +13,7 @@
     "time": 1021,
     "timeDay": 1201,
     "timeWeek": 946,
-    "timeMonth": 1016,
+    "timeMonth": 1010,
     "timeYear": 1021,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 6268,
     "timeDay": 2611,
     "timeWeek": 3091,
-    "timeMonth": 6723,
+    "timeMonth": 6798,
     "timeYear": 6268,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1401,
     "timeDay": 180,
     "timeWeek": 917,
-    "timeMonth": 1405,
+    "timeMonth": 1432,
     "timeYear": 1401,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 6404,
     "timeDay": 278,
     "timeWeek": 287,
-    "timeMonth": 7807,
+    "timeMonth": 7828,
     "timeYear": 6404,
     "dailyMinutesDown": {}
   },
@@ -76,15 +76,15 @@
     "url": "https://annuaire-entreprises.data.gouv.fr/api/ping/api-sirene-insee",
     "icon": "https://favicons.githubusercontent.com/annuaire-entreprises.data.gouv.fr",
     "slug": "api-sirene-insee",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 331,
-    "timeWeek": 328,
+    "timeDay": 320,
+    "timeWeek": 326,
     "timeMonth": 328,
     "timeYear": 376,
     "dailyMinutesDown": {}
@@ -103,7 +103,7 @@
     "time": 298,
     "timeDay": 171,
     "timeWeek": 123,
-    "timeMonth": 114,
+    "timeMonth": 112,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 567,
     "timeDay": 337,
     "timeWeek": 214,
-    "timeMonth": 207,
+    "timeMonth": 205,
     "timeYear": 567,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 269,
     "timeDay": 0,
     "timeWeek": 203,
-    "timeMonth": 202,
+    "timeMonth": 198,
     "timeYear": 269,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 172,
     "timeDay": 0,
     "timeWeek": 104,
-    "timeMonth": 103,
+    "timeMonth": 101,
     "timeYear": 172,
     "dailyMinutesDown": {}
   }
