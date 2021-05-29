@@ -31,7 +31,7 @@
     "time": 6034,
     "timeDay": 2294,
     "timeWeek": 3052,
-    "timeMonth": 4526,
+    "timeMonth": 4548,
     "timeYear": 6034,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "url": "https://annuaire-entreprises.data.gouv.fr/api/ping/api-sirene-insee",
     "icon": "https://favicons.githubusercontent.com/annuaire-entreprises.data.gouv.fr",
     "slug": "api-sirene-insee",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
