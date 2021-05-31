@@ -22,7 +22,7 @@
     "url": "https://data.inpi.fr/entreprises/880878145",
     "icon": "https://favicons.githubusercontent.com/data.inpi.fr",
     "slug": "site-inpi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 247,
-    "timeWeek": 313,
+    "timeWeek": 311,
     "timeMonth": 325,
     "timeYear": 368,
     "dailyMinutesDown": {}
