@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 991,
     "timeDay": 918,
-    "timeWeek": 852,
+    "timeWeek": 803,
     "timeMonth": 979,
     "timeYear": 991,
     "dailyMinutesDown": {}
@@ -22,17 +22,17 @@
     "url": "https://data.inpi.fr/entreprises/880878145",
     "icon": "https://favicons.githubusercontent.com/data.inpi.fr",
     "slug": "site-inpi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5612,
-    "timeDay": 1933,
-    "timeWeek": 2990,
-    "timeMonth": 4101,
-    "timeYear": 5612,
+    "time": 5643,
+    "timeDay": 5210,
+    "timeWeek": 3291,
+    "timeMonth": 4184,
+    "timeYear": 5643,
     "dailyMinutesDown": {}
   },
   {
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1388,
     "timeDay": 120,
-    "timeWeek": 1130,
+    "timeWeek": 1235,
     "timeMonth": 1379,
     "timeYear": 1388,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 6212,
     "timeDay": 257,
-    "timeWeek": 270,
+    "timeWeek": 269,
     "timeMonth": 7416,
     "timeYear": 6212,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 229,
-    "timeWeek": 302,
+    "timeWeek": 299,
     "timeMonth": 324,
     "timeYear": 367,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 109,
-    "timeWeek": 114,
+    "timeWeek": 106,
     "timeMonth": 113,
     "timeYear": 283,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 535,
     "timeDay": 167,
-    "timeWeek": 211,
+    "timeWeek": 193,
     "timeMonth": 206,
     "timeYear": 535,
     "dailyMinutesDown": {}
